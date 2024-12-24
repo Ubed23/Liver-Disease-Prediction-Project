@@ -4,7 +4,7 @@ Created on Thu Nov  7 11:53:42 2024
 
 @author: ubedu
 """
-
+pip install seaborn
 import pickle
 import streamlit as st
 import pandas as pd
